@@ -1,2 +1,2 @@
-# Cobran-a
+# Cobranca
 Começando com Spring MVC - Algaworks
